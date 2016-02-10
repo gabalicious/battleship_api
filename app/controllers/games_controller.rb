@@ -33,7 +33,7 @@ class GamesController < ActionController::API
 	end
 
 	def destroy
-		render json: @game if @game.destroy
+		render json: Game.all if @game.destroy
 	end
 
 	private
