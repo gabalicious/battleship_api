@@ -3,9 +3,7 @@
 
 Run the App
 -------------------
-To run the app, make sure you have Node installed.
-
-And install and run the `serve` package so you can build the app.
+To run the app, make sure you have at least Rub by 1.9 and at least Rails 4 installed.
 
 ```
 bundle exec bundle install
